@@ -1,0 +1,23 @@
+h2{
+    color:#ff8c00;
+    border: solid;
+}
+
+.monospace{
+    position: relative;
+}
+a:link{
+    color: #00ffff;
+    border:solid;
+    
+}
+a:link:hover{
+    background-color: #ff8c00;
+    opacity: 0.33;
+}
+.aboutusspace p{
+    color: #ff8c00;
+    position: absolute;
+}
+
+
